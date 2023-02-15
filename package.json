@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "echo 'build script executed'", 
-    "cy:report":"npm run cleanup && npm run cy_dashboard && npm merge_reports &npm run mochawesome_report"
+    "build": "echo 'build script executed'",
+    "cy:report": "npm run cleanup && npm run cy_dashboard && npm merge_reports &npm run mochawesome_report"
   },
   "keywords": [],
   "author": "",
