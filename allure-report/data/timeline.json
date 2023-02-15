@@ -1,60 +1,8 @@
 {
   "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
-  "name" : "timeline",
   "children" : [ {
-    "name" : "Second test case",
-    "uid" : "5cae8134c2e2915b",
-    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
-    "status" : "passed",
-    "time" : {
-      "start" : 1676466739203,
-      "stop" : 1676466740269,
-      "duration" : 1066
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "newPassed" : false,
-    "newBroken" : false,
-    "retriesCount" : 0,
-    "retriesStatusChange" : false,
-    "parameters" : [ ]
-  }, {
     "name" : "First test case",
-    "uid" : "d1b60bc5ca5fc9cb",
-    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
-    "status" : "passed",
-    "time" : {
-      "start" : 1676466900303,
-      "stop" : 1676466904279,
-      "duration" : 3976
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "newPassed" : false,
-    "newBroken" : false,
-    "retriesCount" : 0,
-    "retriesStatusChange" : false,
-    "parameters" : [ ]
-  }, {
-    "name" : "First test case",
-    "uid" : "b03e7b8a309c81ba",
-    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
-    "status" : "passed",
-    "time" : {
-      "start" : 1676500225053,
-      "stop" : 1676500241285,
-      "duration" : 16232
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "newPassed" : false,
-    "newBroken" : false,
-    "retriesCount" : 2,
-    "retriesStatusChange" : false,
-    "parameters" : [ ]
-  }, {
-    "name" : "First test case",
-    "uid" : "27cef9200e255a9",
+    "uid" : "1c31ffdd8342750e",
     "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
     "status" : "passed",
     "time" : {
@@ -70,8 +18,25 @@
     "retriesStatusChange" : false,
     "parameters" : [ ]
   }, {
+    "name" : "First test case",
+    "uid" : "3e0a16ed1f04b314",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1676466900303,
+      "stop" : 1676466904279,
+      "duration" : 3976
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ ]
+  }, {
     "name" : "Oops...we found an error preparing this test file: cypress/e2e/qa_project/Test1-spec.js",
-    "uid" : "784ed1bec0538736",
+    "uid" : "4e80b201cb640023",
     "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
     "status" : "broken",
     "time" : {
@@ -88,7 +53,7 @@
     "parameters" : [ ]
   }, {
     "name" : "Second test case",
-    "uid" : "5635028b7da976fd",
+    "uid" : "65edf6f4dcae4da8",
     "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
     "status" : "passed",
     "time" : {
@@ -104,21 +69,56 @@
     "retriesStatusChange" : false,
     "parameters" : [ ]
   }, {
-    "name" : "Second test case",
-    "uid" : "1a9b58a827ddc76a",
+    "name" : "First test case",
+    "uid" : "9aaef97c0178457f",
     "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
-    "status" : "failed",
+    "status" : "passed",
     "time" : {
-      "start" : 1676500241399,
-      "stop" : 1676500246944,
-      "duration" : 5545
+      "start" : 1676501366753,
+      "stop" : 1676501377360,
+      "duration" : 10607
     },
     "flaky" : false,
     "newFailed" : false,
     "newPassed" : false,
     "newBroken" : false,
     "retriesCount" : 2,
-    "retriesStatusChange" : true,
+    "retriesStatusChange" : false,
     "parameters" : [ ]
-  } ]
+  }, {
+    "name" : "Second test case",
+    "uid" : "ac27b2f22d8a600f",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1676466739203,
+      "stop" : 1676466740269,
+      "duration" : 1066
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Second test case",
+    "uid" : "363e5d7e98ed9ba1",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1676501377444,
+      "stop" : 1676501378942,
+      "duration" : 1498
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 2,
+    "retriesStatusChange" : false,
+    "parameters" : [ ]
+  } ],
+  "name" : "timeline"
 }
