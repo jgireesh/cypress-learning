@@ -1,4 +1,4 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Wed Feb 15 16:32:59 UTC 2023","Wed Feb 15 16:33:17 UTC 2023","17676","","First Test suite","","","","First test case",""
+"passed","Wed Feb 15 17:11:27 UTC 2023","Wed Feb 15 17:11:28 UTC 2023","800","","First Test suite","","","","Second test case",""
+"passed","Wed Feb 15 17:11:17 UTC 2023","Wed Feb 15 17:11:27 UTC 2023","10419","","First Test suite","","","","First test case",""
 "broken","Wed Feb 15 12:58:17 UTC 2023","Wed Feb 15 12:58:17 UTC 2023","0","","cypress/e2e/qa_project/Test1-spec.js","","","","Oops...we found an error preparing this test file: cypress/e2e/qa_project/Test1-spec.js",""
-"passed","Wed Feb 15 16:33:17 UTC 2023","Wed Feb 15 16:33:19 UTC 2023","1508","","First Test suite","","","","Second test case",""
