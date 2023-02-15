@@ -1,0 +1,200 @@
+{
+  "uid" : "5700b14a2969f81d",
+  "name" : "Second test case",
+  "fullName" : "Second test case",
+  "historyId" : "f5ed1f490724ba172f558fef2c37d974",
+  "time" : {
+    "start" : 1676485810817,
+    "stop" : 1676485811749,
+    "duration" : 932
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "visit https://rahulshettyacademy.com/seleniumPractise/#/",
+      "time" : {
+        "start" : 1676485810845,
+        "stop" : 1676485811218,
+        "duration" : 373
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "GET --- /seleniumPractise/data/products.json",
+      "time" : {
+        "start" : 1676485811218,
+        "stop" : 1676485811218,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "get form input[type='search']",
+      "time" : {
+        "start" : 1676485811218,
+        "stop" : 1676485811223,
+        "duration" : 5
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "type ca",
+      "time" : {
+        "start" : 1676485811223,
+        "stop" : 1676485811689,
+        "duration" : 466
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "get .products",
+      "time" : {
+        "start" : 1676485811689,
+        "stop" : 1676485811694,
+        "duration" : 5
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "find .product",
+      "time" : {
+        "start" : 1676485811694,
+        "stop" : 1676485811705,
+        "duration" : 11
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "get .brand",
+      "time" : {
+        "start" : 1676485811721,
+        "stop" : 1676485811724,
+        "duration" : 3
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "log GREENKART",
+      "time" : {
+        "start" : 1676485811735,
+        "stop" : 1676485811737,
+        "duration" : 2
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "get .brand",
+      "time" : {
+        "start" : 1676485811737,
+        "stop" : 1676485811739,
+        "duration" : 2
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 9,
+    "hasContent" : true,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "First Test suite"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "3aee9b871dd658c4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1676466904404,
+        "stop" : 1676466905417,
+        "duration" : 1013
+      }
+    }, {
+      "uid" : "ef1c759000764092",
+      "status" : "passed",
+      "time" : {
+        "start" : 1676466739203,
+        "stop" : 1676466740269,
+        "duration" : 1066
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5700b14a2969f81d.json",
+  "parameterValues" : [ ]
+}
