@@ -13,8 +13,15 @@
   "author": "Gireesha Jeera",
   "license": "ISC",
   "devDependencies": {
-    "@shelex/cypress-allure-plugin": "2.26.5",
+    "@shelex/cypress-allure-plugin": "^2.35.2",
     "allure-commandline": "2.17.2",
-    "cypress": "^10.11.0"
+    "cypress": "^10.11.0",
+    "webpack": "^5.75.0"
+  },
+  "env": {
+    "allureResultsPath": "allure-results"
+  },
+  "dependencies": {
+    "webpack": "^5.75.0"
   }
 }
