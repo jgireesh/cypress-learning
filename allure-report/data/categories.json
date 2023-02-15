@@ -1,13 +1,12 @@
 {
   "uid" : "4b4757e66a1912dae1a509f688f20b0f",
-  "name" : "categories",
   "children" : [ {
     "name" : "Test defects",
     "children" : [ {
       "name" : "Oops...we found an error preparing this test file:\n\n  > cypress\\support\\e2e.js\n\n",
       "children" : [ {
         "name" : "Oops...we found an error preparing this test file: cypress/e2e/qa_project/Test1-spec.js",
-        "uid" : "4007dbfd4db843eb",
+        "uid" : "a05dcfcfc49399d1",
         "parentUid" : "ede0ef635497963ef6edce4910cadf49",
         "status" : "broken",
         "time" : {
@@ -32,13 +31,13 @@
       "name" : "Timed out retrying after 4000ms: Expected to find element: `.product`, but never found it. Queried from element: <div.products>",
       "children" : [ {
         "name" : "Second test case",
-        "uid" : "2798f25489aa815e",
+        "uid" : "9e30cd70e790b107",
         "parentUid" : "2118209cae0c69cac3c83ccff8f79722",
         "status" : "failed",
         "time" : {
-          "start" : 1676482539808,
-          "stop" : 1676482544963,
-          "duration" : 5155
+          "start" : 1676483281419,
+          "stop" : 1676483286725,
+          "duration" : 5306
         },
         "flaky" : false,
         "newFailed" : false,
@@ -51,5 +50,6 @@
       "uid" : "2118209cae0c69cac3c83ccff8f79722"
     } ],
     "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
-  } ]
+  } ],
+  "name" : "categories"
 }
