@@ -1,26 +1,8 @@
 {
   "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
-  "name" : "timeline",
   "children" : [ {
-    "name" : "Second test case",
-    "uid" : "bf0cbd01ad6128f0",
-    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
-    "status" : "passed",
-    "time" : {
-      "start" : 1676504028632,
-      "stop" : 1676504030825,
-      "duration" : 2193
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "newPassed" : false,
-    "newBroken" : false,
-    "retriesCount" : 2,
-    "retriesStatusChange" : false,
-    "parameters" : [ ]
-  }, {
     "name" : "First test case",
-    "uid" : "779c9c52a2c0baf",
+    "uid" : "4018803c87a1f8d5",
     "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
     "status" : "passed",
     "time" : {
@@ -36,42 +18,8 @@
     "retriesStatusChange" : false,
     "parameters" : [ ]
   }, {
-    "name" : "Oops...we found an error preparing this test file: cypress/e2e/qa_project/Test1-spec.js",
-    "uid" : "cb9508be546dc377",
-    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
-    "status" : "broken",
-    "time" : {
-      "start" : 1676465897742,
-      "stop" : 1676465897742,
-      "duration" : 0
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "newPassed" : false,
-    "newBroken" : false,
-    "retriesCount" : 0,
-    "retriesStatusChange" : false,
-    "parameters" : [ ]
-  }, {
-    "name" : "First test case",
-    "uid" : "d53a0c5ce3b27a33",
-    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
-    "status" : "passed",
-    "time" : {
-      "start" : 1676466900303,
-      "stop" : 1676466904279,
-      "duration" : 3976
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "newPassed" : false,
-    "newBroken" : false,
-    "retriesCount" : 0,
-    "retriesStatusChange" : false,
-    "parameters" : [ ]
-  }, {
     "name" : "Second test case",
-    "uid" : "1941076d9b08e241",
+    "uid" : "f867fcb1e9603cd8",
     "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
     "status" : "passed",
     "time" : {
@@ -88,13 +36,13 @@
     "parameters" : [ ]
   }, {
     "name" : "First test case",
-    "uid" : "9ff880e8c6c9aed6",
+    "uid" : "2b8e9a10d683ac6d",
     "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
     "status" : "passed",
     "time" : {
-      "start" : 1676504018381,
-      "stop" : 1676504028520,
-      "duration" : 10139
+      "start" : 1676504351698,
+      "stop" : 1676504368455,
+      "duration" : 16757
     },
     "flaky" : false,
     "newFailed" : false,
@@ -104,8 +52,42 @@
     "retriesStatusChange" : false,
     "parameters" : [ ]
   }, {
+    "name" : "First test case",
+    "uid" : "f16ae75cf131b7c8",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1676466900303,
+      "stop" : 1676466904279,
+      "duration" : 3976
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Oops...we found an error preparing this test file: cypress/e2e/qa_project/Test1-spec.js",
+    "uid" : "36a655ab4adecf26",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "broken",
+    "time" : {
+      "start" : 1676465897742,
+      "stop" : 1676465897742,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ ]
+  }, {
     "name" : "Second test case",
-    "uid" : "85e0c318396d58e5",
+    "uid" : "fe4c50e520a487a0",
     "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
     "status" : "passed",
     "time" : {
@@ -120,5 +102,23 @@
     "retriesCount" : 0,
     "retriesStatusChange" : false,
     "parameters" : [ ]
-  } ]
+  }, {
+    "name" : "Second test case",
+    "uid" : "90e5e8e392d39e89",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1676504368551,
+      "stop" : 1676504371178,
+      "duration" : 2627
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 2,
+    "retriesStatusChange" : false,
+    "parameters" : [ ]
+  } ],
+  "name" : "timeline"
 }
