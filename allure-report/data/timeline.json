@@ -3,30 +3,30 @@
   "name" : "timeline",
   "children" : [ {
     "name" : "Second test case",
-    "uid" : "32ac1f993a72bfb7",
+    "uid" : "bf0cbd01ad6128f0",
     "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
     "status" : "passed",
     "time" : {
-      "start" : 1676466904404,
-      "stop" : 1676466905417,
-      "duration" : 1013
+      "start" : 1676504028632,
+      "stop" : 1676504030825,
+      "duration" : 2193
     },
     "flaky" : false,
     "newFailed" : false,
     "newPassed" : false,
     "newBroken" : false,
-    "retriesCount" : 0,
+    "retriesCount" : 2,
     "retriesStatusChange" : false,
     "parameters" : [ ]
   }, {
     "name" : "First test case",
-    "uid" : "3e6e6730a790078c",
+    "uid" : "779c9c52a2c0baf",
     "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
     "status" : "passed",
     "time" : {
-      "start" : 1676466900303,
-      "stop" : 1676466904279,
-      "duration" : 3976
+      "start" : 1676466733256,
+      "stop" : 1676466739033,
+      "duration" : 5777
     },
     "flaky" : false,
     "newFailed" : false,
@@ -37,7 +37,7 @@
     "parameters" : [ ]
   }, {
     "name" : "Oops...we found an error preparing this test file: cypress/e2e/qa_project/Test1-spec.js",
-    "uid" : "f96a01c94f5e2967",
+    "uid" : "cb9508be546dc377",
     "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
     "status" : "broken",
     "time" : {
@@ -54,13 +54,13 @@
     "parameters" : [ ]
   }, {
     "name" : "First test case",
-    "uid" : "598f3c7cf4eb6124",
+    "uid" : "d53a0c5ce3b27a33",
     "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
     "status" : "passed",
     "time" : {
-      "start" : 1676466733256,
-      "stop" : 1676466739033,
-      "duration" : 5777
+      "start" : 1676466900303,
+      "stop" : 1676466904279,
+      "duration" : 3976
     },
     "flaky" : false,
     "newFailed" : false,
@@ -71,7 +71,7 @@
     "parameters" : [ ]
   }, {
     "name" : "Second test case",
-    "uid" : "81692dbba936ac0e",
+    "uid" : "1941076d9b08e241",
     "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
     "status" : "passed",
     "time" : {
@@ -87,14 +87,14 @@
     "retriesStatusChange" : false,
     "parameters" : [ ]
   }, {
-    "name" : "Second test case",
-    "uid" : "e49e5ff9e8af07f8",
+    "name" : "First test case",
+    "uid" : "9ff880e8c6c9aed6",
     "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
     "status" : "passed",
     "time" : {
-      "start" : 1676502869074,
-      "stop" : 1676502872324,
-      "duration" : 3250
+      "start" : 1676504018381,
+      "stop" : 1676504028520,
+      "duration" : 10139
     },
     "flaky" : false,
     "newFailed" : false,
@@ -104,20 +104,20 @@
     "retriesStatusChange" : false,
     "parameters" : [ ]
   }, {
-    "name" : "First test case",
-    "uid" : "f899ea87c7435eb3",
+    "name" : "Second test case",
+    "uid" : "85e0c318396d58e5",
     "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
     "status" : "passed",
     "time" : {
-      "start" : 1676502849576,
-      "stop" : 1676502869011,
-      "duration" : 19435
+      "start" : 1676466904404,
+      "stop" : 1676466905417,
+      "duration" : 1013
     },
     "flaky" : false,
     "newFailed" : false,
     "newPassed" : false,
     "newBroken" : false,
-    "retriesCount" : 2,
+    "retriesCount" : 0,
     "retriesStatusChange" : false,
     "parameters" : [ ]
   } ]
