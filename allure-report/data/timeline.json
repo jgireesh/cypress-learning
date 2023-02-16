@@ -2,14 +2,14 @@
   "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
   "name" : "timeline",
   "children" : [ {
-    "name" : "Second test case",
-    "uid" : "1f59b92c8f4cfa72",
+    "name" : "First test case",
+    "uid" : "9543cb1dc08a2e51",
     "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
-    "status" : "failed",
+    "status" : "passed",
     "time" : {
-      "start" : 1676552200223,
-      "stop" : 1676552205556,
-      "duration" : 5333
+      "start" : 1676553143829,
+      "stop" : 1676553154941,
+      "duration" : 11112
     },
     "flaky" : false,
     "newFailed" : false,
@@ -19,14 +19,14 @@
     "retriesStatusChange" : false,
     "parameters" : [ ]
   }, {
-    "name" : "First test case",
-    "uid" : "a044f5c6a354bcf1",
+    "name" : "Second test case",
+    "uid" : "9c1313d36c2e1e81",
     "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
     "status" : "passed",
     "time" : {
-      "start" : 1676552187893,
-      "stop" : 1676552200145,
-      "duration" : 12252
+      "start" : 1676553155029,
+      "stop" : 1676553157006,
+      "duration" : 1977
     },
     "flaky" : false,
     "newFailed" : false,
