@@ -1,17 +1,6 @@
 {
   "total" : 2,
   "items" : [ {
-    "uid" : "23d905d2ebacae953758c06b89e6a720",
-    "name" : "First Test suite",
-    "statistic" : {
-      "failed" : 1,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 1,
-      "unknown" : 0,
-      "total" : 2
-    }
-  }, {
     "uid" : "596c0b1b864d84cdd86a778c94d49138",
     "name" : "cypress/e2e/qa_project/Test1-spec.js",
     "statistic" : {
@@ -21,6 +10,17 @@
       "passed" : 0,
       "unknown" : 0,
       "total" : 1
+    }
+  }, {
+    "uid" : "23d905d2ebacae953758c06b89e6a720",
+    "name" : "First Test suite",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
     }
   } ]
 }
