@@ -3,7 +3,7 @@
   "name" : "packages",
   "children" : [ {
     "name" : "Oops...we found an error preparing this test file: cypress/e2e/qa_project/Test1-spec.js",
-    "uid" : "6242b33a3c330368",
+    "uid" : "c3b0c9d14e5965a0",
     "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
     "status" : "broken",
     "time" : {
@@ -20,13 +20,13 @@
     "parameters" : [ ]
   }, {
     "name" : "First test case",
-    "uid" : "6427c7e3fb998357",
+    "uid" : "8563424419a368ae",
     "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
     "status" : "passed",
     "time" : {
-      "start" : 1676532081034,
-      "stop" : 1676532091064,
-      "duration" : 10030
+      "start" : 1676532339930,
+      "stop" : 1676532358064,
+      "duration" : 18134
     },
     "flaky" : false,
     "newFailed" : false,
@@ -37,20 +37,20 @@
     "parameters" : [ ]
   }, {
     "name" : "Second test case",
-    "uid" : "b3b614da597f816",
+    "uid" : "3997bb25af8648e4",
     "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
-    "status" : "passed",
+    "status" : "failed",
     "time" : {
-      "start" : 1676532091151,
-      "stop" : 1676532092399,
-      "duration" : 1248
+      "start" : 1676532358194,
+      "stop" : 1676532364031,
+      "duration" : 5837
     },
     "flaky" : false,
     "newFailed" : false,
     "newPassed" : false,
     "newBroken" : false,
     "retriesCount" : 2,
-    "retriesStatusChange" : false,
+    "retriesStatusChange" : true,
     "parameters" : [ ]
   } ]
 }
