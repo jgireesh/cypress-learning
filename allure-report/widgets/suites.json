@@ -4,10 +4,10 @@
     "uid" : "23d905d2ebacae953758c06b89e6a720",
     "name" : "First Test suite",
     "statistic" : {
-      "failed" : 1,
+      "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 1,
+      "passed" : 2,
       "unknown" : 0,
       "total" : 2
     }
