@@ -1,30 +1,5 @@
 {
   "uid" : "4b4757e66a1912dae1a509f688f20b0f",
-  "children" : [ {
-    "name" : "Product defects",
-    "children" : [ {
-      "name" : "Timed out retrying after 4000ms: Expected to find element: `.product`, but never found it. Queried from element: <div.products>",
-      "children" : [ {
-        "name" : "Second test case",
-        "uid" : "e80f680b3cbf6d6f",
-        "parentUid" : "2118209cae0c69cac3c83ccff8f79722",
-        "status" : "failed",
-        "time" : {
-          "start" : 1676546980610,
-          "stop" : 1676546987666,
-          "duration" : 7056
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      } ],
-      "uid" : "2118209cae0c69cac3c83ccff8f79722"
-    } ],
-    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
-  } ],
-  "name" : "categories"
+  "name" : "categories",
+  "children" : [ ]
 }

@@ -1,16 +1,17 @@
 {
   "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
   "children" : [ {
     "name" : "First Test suite",
     "children" : [ {
       "name" : "First test case",
-      "uid" : "43d70a65c5576149",
+      "uid" : "a4ba6740795de0e5",
       "parentUid" : "23d905d2ebacae953758c06b89e6a720",
       "status" : "passed",
       "time" : {
-        "start" : 1676546966090,
-        "stop" : 1676546980466,
-        "duration" : 14376
+        "start" : 1676547613145,
+        "stop" : 1676547621135,
+        "duration" : 7990
       },
       "flaky" : false,
       "newFailed" : false,
@@ -21,13 +22,13 @@
       "parameters" : [ ]
     }, {
       "name" : "Second test case",
-      "uid" : "e80f680b3cbf6d6f",
+      "uid" : "bc0a256988bf042d",
       "parentUid" : "23d905d2ebacae953758c06b89e6a720",
-      "status" : "failed",
+      "status" : "passed",
       "time" : {
-        "start" : 1676546980610,
-        "stop" : 1676546987666,
-        "duration" : 7056
+        "start" : 1676547621223,
+        "stop" : 1676547623228,
+        "duration" : 2005
       },
       "flaky" : false,
       "newFailed" : false,
@@ -38,6 +39,5 @@
       "parameters" : [ ]
     } ],
     "uid" : "23d905d2ebacae953758c06b89e6a720"
-  } ],
-  "name" : "suites"
+  } ]
 }
