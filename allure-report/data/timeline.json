@@ -2,59 +2,8 @@
   "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
   "name" : "timeline",
   "children" : [ {
-    "name" : "Second test case",
-    "uid" : "dafd8309373b9c6c",
-    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
-    "status" : "passed",
-    "time" : {
-      "start" : 1676466739203,
-      "stop" : 1676466740269,
-      "duration" : 1066
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "newPassed" : false,
-    "newBroken" : false,
-    "retriesCount" : 0,
-    "retriesStatusChange" : false,
-    "parameters" : [ ]
-  }, {
-    "name" : "Second test case",
-    "uid" : "c48e7de210e52cae",
-    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
-    "status" : "passed",
-    "time" : {
-      "start" : 1676466904404,
-      "stop" : 1676466905417,
-      "duration" : 1013
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "newPassed" : false,
-    "newBroken" : false,
-    "retriesCount" : 0,
-    "retriesStatusChange" : false,
-    "parameters" : [ ]
-  }, {
-    "name" : "Second test case",
-    "uid" : "550b7d216b7c0923",
-    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
-    "status" : "failed",
-    "time" : {
-      "start" : 1676509206222,
-      "stop" : 1676509211452,
-      "duration" : 5230
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "newPassed" : false,
-    "newBroken" : false,
-    "retriesCount" : 2,
-    "retriesStatusChange" : true,
-    "parameters" : [ ]
-  }, {
     "name" : "Oops...we found an error preparing this test file: cypress/e2e/qa_project/Test1-spec.js",
-    "uid" : "d167857ab43cea2f",
+    "uid" : "fb4387ab9c5236ff",
     "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
     "status" : "broken",
     "time" : {
@@ -71,7 +20,7 @@
     "parameters" : [ ]
   }, {
     "name" : "First test case",
-    "uid" : "6a5d3e9f96ebb252",
+    "uid" : "75b0382ba4b539a6",
     "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
     "status" : "passed",
     "time" : {
@@ -87,8 +36,25 @@
     "retriesStatusChange" : false,
     "parameters" : [ ]
   }, {
+    "name" : "Second test case",
+    "uid" : "a7250c2b49f09b7b",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1676510099846,
+      "stop" : 1676510104793,
+      "duration" : 4947
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 2,
+    "retriesStatusChange" : true,
+    "parameters" : [ ]
+  }, {
     "name" : "First test case",
-    "uid" : "77f2882cf0489e2c",
+    "uid" : "9ce82077ea9eeaea",
     "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
     "status" : "passed",
     "time" : {
@@ -104,14 +70,48 @@
     "retriesStatusChange" : false,
     "parameters" : [ ]
   }, {
-    "name" : "First test case",
-    "uid" : "6f25e13ce60c7331",
+    "name" : "Second test case",
+    "uid" : "b45db022b9fdd305",
     "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
     "status" : "passed",
     "time" : {
-      "start" : 1676509191249,
-      "stop" : 1676509206180,
-      "duration" : 14931
+      "start" : 1676466904404,
+      "stop" : 1676466905417,
+      "duration" : 1013
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Second test case",
+    "uid" : "a40952044e9ec94",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1676466739203,
+      "stop" : 1676466740269,
+      "duration" : 1066
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "First test case",
+    "uid" : "7036de98f09ed3cc",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1676510084845,
+      "stop" : 1676510099797,
+      "duration" : 14952
     },
     "flaky" : false,
     "newFailed" : false,

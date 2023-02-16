@@ -1,0 +1,163 @@
+{
+  "uid" : "a7250c2b49f09b7b",
+  "name" : "Second test case",
+  "fullName" : "Second test case",
+  "historyId" : "f5ed1f490724ba172f558fef2c37d974",
+  "time" : {
+    "start" : 1676510099846,
+    "stop" : 1676510104793,
+    "duration" : 4947
+  },
+  "status" : "failed",
+  "statusMessage" : "Timed out retrying after 4000ms: Expected to find element: `.product`, but never found it. Queried from element: <div.products>",
+  "statusTrace" : "AssertionError: Timed out retrying after 4000ms: Expected to find element: `.product`, but never found it. Queried from element: <div.products>\n    at Context.eval (webpack:///./cypress/e2e/qa_project/Test1-spec.js:35:28)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "Timed out retrying after 4000ms: Expected to find element: `.product`, but never found it. Queried from element: <div.products>",
+    "statusTrace" : "AssertionError: Timed out retrying after 4000ms: Expected to find element: `.product`, but never found it. Queried from element: <div.products>\n    at Context.eval (webpack:///./cypress/e2e/qa_project/Test1-spec.js:35:28)",
+    "steps" : [ {
+      "name" : "visit https://rahulshettyacademy.com/seleniumPractise/#/",
+      "time" : {
+        "start" : 1676510099890,
+        "stop" : 1676510100184,
+        "duration" : 294
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "GET --- /seleniumPractise/data/products.json",
+      "time" : {
+        "start" : 1676510100184,
+        "stop" : 1676510100184,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "get form input[type='search']",
+      "time" : {
+        "start" : 1676510100184,
+        "stop" : 1676510100187,
+        "duration" : 3
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "type ca",
+      "time" : {
+        "start" : 1676510100187,
+        "stop" : 1676510100521,
+        "duration" : 334
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "get .products",
+      "time" : {
+        "start" : 1676510100521,
+        "stop" : 1676510100524,
+        "duration" : 3
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "find .product",
+      "time" : {
+        "start" : 1676510100524,
+        "stop" : 1676510104791,
+        "duration" : 4267
+      },
+      "status" : "failed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 6,
+    "shouldDisplayMessage" : true,
+    "attachmentsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "First Test suite"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "b45db022b9fdd305",
+      "status" : "passed",
+      "time" : {
+        "start" : 1676466904404,
+        "stop" : 1676466905417,
+        "duration" : 1013
+      }
+    }, {
+      "uid" : "a40952044e9ec94",
+      "status" : "passed",
+      "time" : {
+        "start" : 1676466739203,
+        "stop" : 1676466740269,
+        "duration" : 1066
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "a7250c2b49f09b7b.json",
+  "parameterValues" : [ ]
+}
