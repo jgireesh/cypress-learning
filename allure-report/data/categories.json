@@ -7,7 +7,7 @@
       "name" : "Oops...we found an error preparing this test file:\n\n  > cypress\\support\\e2e.js\n\n",
       "children" : [ {
         "name" : "Oops...we found an error preparing this test file: cypress/e2e/qa_project/Test1-spec.js",
-        "uid" : "4a1a908bf0ea7db8",
+        "uid" : "5ae4a97726942e77",
         "parentUid" : "ede0ef635497963ef6edce4910cadf49",
         "status" : "broken",
         "time" : {
@@ -32,13 +32,13 @@
       "name" : "Timed out retrying after 4000ms: Expected to find element: `.product`, but never found it. Queried from element: <div.products>",
       "children" : [ {
         "name" : "Second test case",
-        "uid" : "e2b1bf876b5031a",
+        "uid" : "e4ab3596537f83f0",
         "parentUid" : "2118209cae0c69cac3c83ccff8f79722",
         "status" : "failed",
         "time" : {
-          "start" : 1676526982136,
-          "stop" : 1676526988262,
-          "duration" : 6126
+          "start" : 1676527471145,
+          "stop" : 1676527476331,
+          "duration" : 5186
         },
         "flaky" : false,
         "newFailed" : false,
