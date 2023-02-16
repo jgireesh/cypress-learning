@@ -3,7 +3,7 @@
   "name" : "behaviors",
   "children" : [ {
     "name" : "Oops...we found an error preparing this test file: cypress/e2e/qa_project/Test1-spec.js",
-    "uid" : "ee161ebd343cd9d2",
+    "uid" : "f74178c97154f5d0",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "broken",
     "time" : {
@@ -20,13 +20,13 @@
     "parameters" : [ ]
   }, {
     "name" : "First test case",
-    "uid" : "13362bcc5688e3f1",
+    "uid" : "9796ad557b31580f",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1676534353099,
-      "stop" : 1676534372541,
-      "duration" : 19442
+      "start" : 1676535477588,
+      "stop" : 1676535487652,
+      "duration" : 10064
     },
     "flaky" : false,
     "newFailed" : false,
@@ -37,13 +37,13 @@
     "parameters" : [ ]
   }, {
     "name" : "Second test case",
-    "uid" : "f85b051afa14b29e",
+    "uid" : "13b55cebd93fe343",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1676534372593,
-      "stop" : 1676534374027,
-      "duration" : 1434
+      "start" : 1676535487725,
+      "stop" : 1676535489303,
+      "duration" : 1578
     },
     "flaky" : false,
     "newFailed" : false,
