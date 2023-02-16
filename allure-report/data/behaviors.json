@@ -3,13 +3,13 @@
   "name" : "behaviors",
   "children" : [ {
     "name" : "First test case",
-    "uid" : "ba1fab7c3f33cecf",
+    "uid" : "c9c777aed3b47047",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1676548057076,
-      "stop" : 1676548066942,
-      "duration" : 9866
+      "start" : 1676548503800,
+      "stop" : 1676548513519,
+      "duration" : 9719
     },
     "flaky" : false,
     "newFailed" : false,
@@ -20,13 +20,13 @@
     "parameters" : [ ]
   }, {
     "name" : "Second test case",
-    "uid" : "b06ebd4f3f3540c5",
+    "uid" : "9558beb29d53100a",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1676548067024,
-      "stop" : 1676548069034,
-      "duration" : 2010
+      "start" : 1676548513592,
+      "stop" : 1676548515309,
+      "duration" : 1717
     },
     "flaky" : false,
     "newFailed" : false,
