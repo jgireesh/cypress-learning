@@ -1,17 +1,33 @@
 {
   "uid" : "98d3104e051c652961429bf95fa0b5d6",
-  "name" : "suites",
   "children" : [ {
-    "name" : "cypress/e2e/qa_project/Test1-spec.js",
+    "name" : "First Test suite",
     "children" : [ {
-      "name" : "Oops...we found an error preparing this test file: cypress/e2e/qa_project/Test1-spec.js",
-      "uid" : "dbbd3f1f0173a2d3",
-      "parentUid" : "596c0b1b864d84cdd86a778c94d49138",
-      "status" : "broken",
+      "name" : "First test case",
+      "uid" : "43d70a65c5576149",
+      "parentUid" : "23d905d2ebacae953758c06b89e6a720",
+      "status" : "passed",
       "time" : {
-        "start" : 1676465897742,
-        "stop" : 1676465897742,
-        "duration" : 0
+        "start" : 1676546966090,
+        "stop" : 1676546980466,
+        "duration" : 14376
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Second test case",
+      "uid" : "e80f680b3cbf6d6f",
+      "parentUid" : "23d905d2ebacae953758c06b89e6a720",
+      "status" : "failed",
+      "time" : {
+        "start" : 1676546980610,
+        "stop" : 1676546987666,
+        "duration" : 7056
       },
       "flaky" : false,
       "newFailed" : false,
@@ -21,44 +37,7 @@
       "retriesStatusChange" : false,
       "parameters" : [ ]
     } ],
-    "uid" : "596c0b1b864d84cdd86a778c94d49138"
-  }, {
-    "name" : "First Test suite",
-    "children" : [ {
-      "name" : "First test case",
-      "uid" : "9781505f5a631fe7",
-      "parentUid" : "23d905d2ebacae953758c06b89e6a720",
-      "status" : "passed",
-      "time" : {
-        "start" : 1676546152304,
-        "stop" : 1676546169107,
-        "duration" : 16803
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 6,
-      "retriesStatusChange" : false,
-      "parameters" : [ ]
-    }, {
-      "name" : "Second test case",
-      "uid" : "a13580a884ba75d9",
-      "parentUid" : "23d905d2ebacae953758c06b89e6a720",
-      "status" : "passed",
-      "time" : {
-        "start" : 1676546169205,
-        "stop" : 1676546174420,
-        "duration" : 5215
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 6,
-      "retriesStatusChange" : false,
-      "parameters" : [ ]
-    } ],
     "uid" : "23d905d2ebacae953758c06b89e6a720"
-  } ]
+  } ],
+  "name" : "suites"
 }
