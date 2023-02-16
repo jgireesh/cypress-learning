@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "907478ac22c0315bf4b3f45eea3ebcc9" : {
     "statistic" : {
@@ -37,4 +38,46 @@
       }
     } ]
   }
+=======
+{
+  "907478ac22c0315bf4b3f45eea3ebcc9" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3a04b4b12ca88225",
+      "status" : "passed",
+      "time" : {
+        "start" : 1676543785517,
+        "stop" : 1676543797130,
+        "duration" : 11613
+      }
+    } ]
+  },
+  "f5ed1f490724ba172f558fef2c37d974" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "af558a541063fe0e",
+      "status" : "failed",
+      "statusDetails" : "Timed out retrying after 4000ms: Expected to find element: `.product`, but never found it. Queried from element: <div.products>",
+      "time" : {
+        "start" : 1676543797174,
+        "stop" : 1676543803556,
+        "duration" : 6382
+      }
+    } ]
+  }
+>>>>>>> 01407d72ee95b929a8e93121891a54898a9bbbc4
 }
