@@ -1,3 +1,3 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Thu Feb 16 12:33:10 UTC 2023","Thu Feb 16 12:33:12 UTC 2023","2042","","First Test suite","","","","Second test case",""
-"passed","Thu Feb 16 12:32:56 UTC 2023","Thu Feb 16 12:33:10 UTC 2023","13838","","First Test suite","","","","First test case",""
+"passed","Thu Feb 16 12:38:11 UTC 2023","Thu Feb 16 12:38:27 UTC 2023","15462","","First Test suite","","","","First test case",""
+"failed","Thu Feb 16 12:38:27 UTC 2023","Thu Feb 16 12:38:32 UTC 2023","5130","","First Test suite","","","","Second test case",""
