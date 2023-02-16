@@ -9,32 +9,31 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "6037b0283a109f2",
+      "uid" : "697b46c4d4d456ee",
       "status" : "passed",
       "time" : {
-        "start" : 1676549634398,
-        "stop" : 1676549647475,
-        "duration" : 13077
+        "start" : 1676550315450,
+        "stop" : 1676550325086,
+        "duration" : 9636
       }
     } ]
   },
   "f5ed1f490724ba172f558fef2c37d974" : {
     "statistic" : {
-      "failed" : 1,
+      "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 0,
+      "passed" : 1,
       "unknown" : 0,
       "total" : 1
     },
     "items" : [ {
-      "uid" : "122164f315ea21e9",
-      "status" : "failed",
-      "statusDetails" : "Timed out retrying after 4000ms: Expected to find element: `.product`, but never found it. Queried from element: <div.products>",
+      "uid" : "3ef9c3897ebcce68",
+      "status" : "passed",
       "time" : {
-        "start" : 1676549647519,
-        "stop" : 1676549653047,
-        "duration" : 5528
+        "start" : 1676550325153,
+        "stop" : 1676550327040,
+        "duration" : 1887
       }
     } ]
   }

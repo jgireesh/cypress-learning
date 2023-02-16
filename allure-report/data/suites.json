@@ -5,13 +5,13 @@
     "name" : "First Test suite",
     "children" : [ {
       "name" : "First test case",
-      "uid" : "6037b0283a109f2",
+      "uid" : "697b46c4d4d456ee",
       "parentUid" : "23d905d2ebacae953758c06b89e6a720",
       "status" : "passed",
       "time" : {
-        "start" : 1676549634398,
-        "stop" : 1676549647475,
-        "duration" : 13077
+        "start" : 1676550315450,
+        "stop" : 1676550325086,
+        "duration" : 9636
       },
       "flaky" : false,
       "newFailed" : false,
@@ -22,13 +22,13 @@
       "parameters" : [ ]
     }, {
       "name" : "Second test case",
-      "uid" : "122164f315ea21e9",
+      "uid" : "3ef9c3897ebcce68",
       "parentUid" : "23d905d2ebacae953758c06b89e6a720",
-      "status" : "failed",
+      "status" : "passed",
       "time" : {
-        "start" : 1676549647519,
-        "stop" : 1676549653047,
-        "duration" : 5528
+        "start" : 1676550325153,
+        "stop" : 1676550327040,
+        "duration" : 1887
       },
       "flaky" : false,
       "newFailed" : false,
