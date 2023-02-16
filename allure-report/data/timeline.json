@@ -1,14 +1,15 @@
 {
   "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
   "children" : [ {
-    "name" : "First test case",
-    "uid" : "95e26c03ebf4ff35",
+    "name" : "Second test case",
+    "uid" : "122164f315ea21e9",
     "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
-    "status" : "passed",
+    "status" : "failed",
     "time" : {
-      "start" : 1676549317416,
-      "stop" : 1676549325828,
-      "duration" : 8412
+      "start" : 1676549647519,
+      "stop" : 1676549653047,
+      "duration" : 5528
     },
     "flaky" : false,
     "newFailed" : false,
@@ -18,14 +19,14 @@
     "retriesStatusChange" : false,
     "parameters" : [ ]
   }, {
-    "name" : "Second test case",
-    "uid" : "5e23d9dece8c6f8",
+    "name" : "First test case",
+    "uid" : "6037b0283a109f2",
     "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
     "status" : "passed",
     "time" : {
-      "start" : 1676549325928,
-      "stop" : 1676549326797,
-      "duration" : 869
+      "start" : 1676549634398,
+      "stop" : 1676549647475,
+      "duration" : 13077
     },
     "flaky" : false,
     "newFailed" : false,
@@ -34,6 +35,5 @@
     "retriesCount" : 0,
     "retriesStatusChange" : false,
     "parameters" : [ ]
-  } ],
-  "name" : "timeline"
+  } ]
 }
