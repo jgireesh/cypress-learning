@@ -1,25 +1,5 @@
 [ {
-  "uid" : "7036de98f09ed3cc",
-  "name" : "First test case",
-  "time" : {
-    "start" : 1676510084845,
-    "stop" : 1676510099797,
-    "duration" : 14952
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "a7250c2b49f09b7b",
-  "name" : "Second test case",
-  "time" : {
-    "start" : 1676510099846,
-    "stop" : 1676510104793,
-    "duration" : 4947
-  },
-  "status" : "failed",
-  "severity" : "normal"
-}, {
-  "uid" : "fb4387ab9c5236ff",
+  "uid" : "c4fbc7f0ea64027",
   "name" : "Oops...we found an error preparing this test file: cypress/e2e/qa_project/Test1-spec.js",
   "time" : {
     "start" : 1676465897742,
@@ -27,5 +7,25 @@
     "duration" : 0
   },
   "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "3cc16afbdae74fa1",
+  "name" : "Second test case",
+  "time" : {
+    "start" : 1676510950464,
+    "stop" : 1676510952400,
+    "duration" : 1936
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3a024fe0639aa9fb",
+  "name" : "First test case",
+  "time" : {
+    "start" : 1676510941410,
+    "stop" : 1676510950387,
+    "duration" : 8977
+  },
+  "status" : "passed",
   "severity" : "normal"
 } ]
