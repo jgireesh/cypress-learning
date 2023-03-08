@@ -2,31 +2,14 @@
   "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
   "name" : "timeline",
   "children" : [ {
-    "name" : "First test case",
-    "uid" : "ed9fdb5880595973",
+    "name" : "Second test case",
+    "uid" : "4a8b4949ac7a685f",
     "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
     "status" : "passed",
     "time" : {
-      "start" : 1678271676644,
-      "stop" : 1678271689995,
-      "duration" : 13351
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "newPassed" : false,
-    "newBroken" : false,
-    "retriesCount" : 0,
-    "retriesStatusChange" : false,
-    "parameters" : [ ]
-  }, {
-    "name" : "Second test case",
-    "uid" : "658ab0c2a0e7225f",
-    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
-    "status" : "failed",
-    "time" : {
-      "start" : 1678272221197,
-      "stop" : 1678272226530,
-      "duration" : 5333
+      "start" : 1678276851246,
+      "stop" : 1678276852564,
+      "duration" : 1318
     },
     "flaky" : false,
     "newFailed" : false,
@@ -37,70 +20,19 @@
     "parameters" : [ ]
   }, {
     "name" : "First test case",
-    "uid" : "63fa416a60e87d0e",
+    "uid" : "1fb32bd7b88d64e4",
     "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
     "status" : "passed",
     "time" : {
-      "start" : 1678272509175,
-      "stop" : 1678272523268,
-      "duration" : 14093
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "newPassed" : false,
-    "newBroken" : false,
-    "retriesCount" : 2,
-    "retriesStatusChange" : false,
-    "parameters" : [ ]
-  }, {
-    "name" : "Second test case",
-    "uid" : "1f7ee7fdcb35500e",
-    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
-    "status" : "failed",
-    "time" : {
-      "start" : 1678271690043,
-      "stop" : 1678271695086,
-      "duration" : 5043
+      "start" : 1678276842335,
+      "stop" : 1678276851171,
+      "duration" : 8836
     },
     "flaky" : false,
     "newFailed" : false,
     "newPassed" : false,
     "newBroken" : false,
     "retriesCount" : 0,
-    "retriesStatusChange" : false,
-    "parameters" : [ ]
-  }, {
-    "name" : "First test case",
-    "uid" : "80d5916a845f5b15",
-    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
-    "status" : "passed",
-    "time" : {
-      "start" : 1678272206688,
-      "stop" : 1678272221132,
-      "duration" : 14444
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "newPassed" : false,
-    "newBroken" : false,
-    "retriesCount" : 0,
-    "retriesStatusChange" : false,
-    "parameters" : [ ]
-  }, {
-    "name" : "Second test case",
-    "uid" : "edc95bc43c1ef2b0",
-    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
-    "status" : "failed",
-    "time" : {
-      "start" : 1678272523549,
-      "stop" : 1678272529410,
-      "duration" : 5861
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "newPassed" : false,
-    "newBroken" : false,
-    "retriesCount" : 2,
     "retriesStatusChange" : false,
     "parameters" : [ ]
   } ]

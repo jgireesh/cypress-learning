@@ -1,21 +1,21 @@
 [ {
-  "uid" : "63fa416a60e87d0e",
+  "uid" : "1fb32bd7b88d64e4",
   "name" : "First test case",
   "time" : {
-    "start" : 1678272509175,
-    "stop" : 1678272523268,
-    "duration" : 14093
+    "start" : 1678276842335,
+    "stop" : 1678276851171,
+    "duration" : 8836
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "edc95bc43c1ef2b0",
+  "uid" : "4a8b4949ac7a685f",
   "name" : "Second test case",
   "time" : {
-    "start" : 1678272523549,
-    "stop" : 1678272529410,
-    "duration" : 5861
+    "start" : 1678276851246,
+    "stop" : 1678276852564,
+    "duration" : 1318
   },
-  "status" : "failed",
+  "status" : "passed",
   "severity" : "normal"
 } ]
